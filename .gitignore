@@ -53,3 +53,8 @@ $RECYCLE.BIN/
 .coverage
 htmlcov/
 *.spec.bak
+
+# Exclusao de Testes e Dados Locais (DevSecOps)
+teste/
+*.pdf
+output_ai_reports/
